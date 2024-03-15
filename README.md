@@ -4,7 +4,7 @@
 + Conducted exploratory data analysis (EDA) to uncover insights and patterns influencing insurance charges using statistical methods and visualizations like scatter plots, box plots, and heatmaps
 + Engineered relevant features from categorical variables (e.g., smoker status) and derived new features based on EDA insights
 + Developed multiple linear regression models to predict insurance charges based on features like age, BMI, smoking status, and region
-+ Experimented with advanced regression techniques like polynomial regression and regularization (ridge, lasso) to improve prediction accuracy
++ Experimented with advanced regression techniques like polynomial regression and regularization (ridge) to improve prediction accuracy
 + Performed systematic hyperparameter tuning using cross-validation to optimize model performance
 + Achieved high prediction accuracy with an R-squared of 0.84 on the test set using a ridge regression model with polynomial features
 + Implemented data pipelines using Scikit-learn for efficient modeling workflow
